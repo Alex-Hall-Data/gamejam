@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{221513C9-78B2-055D-D798-A0FF836A30D2}</ProjectGuid>
+    <ProjectGuid>{BD78F3BD-B27E-AE27-0391-143F0ECD3D88}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\buttonSound.cs" />
+     <Compile Include="Assets\Scripts\DragandDrop.cs" />
      <Compile Include="Assets\Scripts\forceField.cs" />
      <Compile Include="Assets\Scripts\laserShredder.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />

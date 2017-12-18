@@ -56,8 +56,8 @@ public class PlayerController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		pos=Camera.main.ScreenToWorldPoint(new Vector3(Input.GetTouch(0).position.x,Input.GetTouch(0).position.y,0f));
-		transform.position = new Vector3 (pos.x, pos.y, 0f);
+	//	pos=Camera.main.ScreenToWorldPoint(new Vector3(Input.GetTouch(0).position.x,Input.GetTouch(0).position.y,0f));
+	//	transform.position = new Vector3 (pos.x, pos.y, 0f);
 	
 
 
